@@ -1,5 +1,5 @@
 <p align='center'>
-These tasks were taken from this site
+These tasks were taken from this resource
 <p align='center'>
 </p>
 <p align='center'>
