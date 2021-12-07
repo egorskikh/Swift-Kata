@@ -33,6 +33,6 @@ func binarySearch(array: [Int], n: Int) -> Int? {
     
 }
 
-binarySearch(array: intArraySort, n: 1) // 3
+binarySearch(array: intArraySort, n: 1) 
 
 
