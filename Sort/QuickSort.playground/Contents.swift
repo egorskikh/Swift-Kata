@@ -12,3 +12,7 @@ public func quickSort(_ a: [Int]) -> [Int] {
     
     return quickSort(less) + equal + quickSort(greater)
 }
+
+let array = [1,3,6,4,5,2,9,8,10]
+let resultArray = quickSort(array)
+print(resultArray)
