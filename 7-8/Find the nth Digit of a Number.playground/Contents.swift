@@ -13,5 +13,5 @@ import UIKit
  */
 
 func findDigit(_ num: Int, _ nth: Int) -> Int {
-    return 0
+    return 1
 }
