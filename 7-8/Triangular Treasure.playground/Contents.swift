@@ -2,6 +2,7 @@ import UIKit
 
 // Triangular Treasure. Swift.
 
-func triangular(_ n: Int) -> Int {
-    return n > 0 ? (1...n).reduce(0,+) : 0
+func triangular(_ n: Int) -> Int{
+    guard n > 0 else { return 0 }
+    return n * (1 + n) / 2
 }
